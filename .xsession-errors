@@ -1,0 +1,2093 @@
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent[1255]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:1199): xfce4-session-WARNING **: 17:10:12.510: gpg-agent returned no PID in the variables
+
+(xfce4-session:1199): xfce4-session-WARNING **: 17:10:12.540: xfsm_manager_load_session: Something wrong with /home/matra/.cache/sessions/xfce4-session-Ideapad:0, Does it exist? Permissions issue?
+libpager-Message: 17:10:15.399: Setting the pager rows returned false. Maybe the setting is not applied.
+
+(wrapper-2.0:1302): Gtk-WARNING **: 17:10:15.971: gtk_widget_size_allocate(): attempt to allocate widget with width -1 and height 30
+
+(wrapper-2.0:1299): Gtk-WARNING **: 17:10:16.094: gtk_widget_size_allocate(): attempt to allocate widget with width -1 and height 30
+
+(wrapper-2.0:1303): libnotify-WARNING **: 17:10:16.137: Failed to connect to proxy
+
+(wrapper-2.0:1295): Gtk-WARNING **: 17:10:16.145: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1303): Gtk-WARNING **: 17:10:16.202: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+** (xfce4-clipman:1317): WARNING **: 17:10:16.591: Unable to register GApplication: An object is already exported for the interface org.gtk.Application at /org/xfce/clipman
+
+(xfce4-clipman:1317): GLib-GIO-CRITICAL **: 17:10:16.591: g_application_get_is_remote: assertion 'application->priv->is_registered' failed
+
+(xfce4-clipman:1317): GLib-WARNING **: 17:10:16.591: g_set_application_name() called multiple times
+
+(wrapper-2.0:1304): Gtk-WARNING **: 17:10:19.641: gtk_widget_size_allocate(): attempt to allocate widget with width -3 and height 28
+xfsettingsd: Another instance took over. Leaving...
+blueman-applet 17.10.30 WARNING  PluginManager:147 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 17.10.30 WARNING  PluginManager:147 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-tray 17.10.30 ERROR    Functions:303 remove_file: Failed to remove: /home/matra/.cache/blueman-tray-1000
+
+(blueman-tray:1502): Gdk-CRITICAL **: 17:10:31.261: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+xfsettingsd: Another instance took over. Leaving...
+** Message: 20:10:50.135: updates_checker.vala:65: check updates
+** Message: 20:10:56.758: updates_checker.vala:95: 0 updates found
+xfsettingsd: Another instance took over. Leaving...
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Loaded SDL version 2.0.13-6142881
+
+(steam:1669): Gtk-WARNING **: 20:11:13.899: Unable to locate theme engine in module_path: "adwaita",
+
+(steam:1669): Gtk-WARNING **: 20:11:13.906: Unable to locate theme engine in module_path: "murrine",
+
+(steam:1669): Gtk-WARNING **: 20:11:13.906: Unable to locate theme engine in module_path: "murrine",
+
+(steam:1669): Gtk-WARNING **: 20:11:13.906: Unable to locate theme engine in module_path: "murrine",
+
+(steam:1669): Gtk-WARNING **: 20:11:13.909: Unable to locate theme engine in module_path: "murrine",
+
+(steam:1669): Gtk-WARNING **: 20:11:13.909: Unable to locate theme engine in module_path: "murrine",
+
+(steam:1669): Gtk-WARNING **: 20:11:13.910: Unable to locate theme engine in module_path: "murrine",
+
+(steam:1669): Gtk-WARNING **: 20:11:13.910: Unable to locate theme engine in module_path: "murrine",
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+[1102/201117.324658:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1102/201117.807986:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[1102/201117.808142:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1603484818
+[1102/201117.808200:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[1102/201117.808236:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+CAppInfoCacheReadFromDiskThread took 574 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+Warning: failed to set thread priority: set failed for priority 8
+Warning: support for elevated priorities is most likely unavailable, suppressing future warnings
+Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+[1102/201122.249963:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[1102/201122.250113:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1603484818
+[1102/201122.250163:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[1102/201122.250176:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[1102/201122.251064:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: gpu-process
+[1102/201124.161171:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[1102/201124.161354:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1603484818
+[1102/201124.161404:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[1102/201124.161416:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[1102/201124.249120:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+CApplicationManagerPopulateThread took 24591 milliseconds to initialize (will have waited on CAppInfoCacheReadFromDiskThread)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Proceed to auto login
+Opted-in Controller Mask for AppId 0: a
+
+(steam:1669): Gtk-WARNING **: 20:11:58.179: gtk_disable_setlocale() must be called before gtk_init()
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+[1859:1102/201202.356835:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+WARNING: Experimental compiler backend enabled. Here be dragons! Incorrect rendering, GPU hangs and/or resets are likely
+roaming config store loaded successfully - 14925 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 699ms
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+WARNING: Experimental compiler backend enabled. Here be dragons! Incorrect rendering, GPU hangs and/or resets are likely
+[1102/201209.982306:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[1859:1102/201211.328480:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[1102/201211.493647:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[1102/201213.167350:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/matra/.local/share/Steam/ubuntu12_32/steam'"
+System startup time: 65.95 seconds
+[1102/201219.123836:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[1102/201219.138711:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+BuildCompleteAppOverviewChange: 410
+RegisterForAppOverview 1: 119ms
+RegisterForAppOverview 2: 121ms
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+(electron) 'setBadgeCount function' is deprecated and will be removed. Please use 'badgeCount property' instead.
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+[570]Non-Steam Controller Configs Enabled: 1
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+ExecuteSteamURL: "steam://open/downloads"
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+ExecuteSteamURL: "steam://open/friends"
+GameAction [AppID 570, ActionID 1] : LaunchApp changed task to UpdatingAppInfo with ""
+Opted-in Controller Mask for AppId 570: a
+GameAction [AppID 570, ActionID 1] : LaunchApp changed task to ProcessingInstallScript with ""
+GameAction [AppID 570, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+GameAction [AppID 570, ActionID 1] : LaunchApp changed task to ProcessingShaderCache with ""
+Exiting workitem thread
+
+(xfce4-terminal:3023): Gtk-WARNING **: 20:19:23.783: TerminalWidget 0x563debbb6a30 reported min size 18 and natural size 10 in get_preferred_width(); natural size must be >= min size
+
+(xfce4-terminal:3023): VTE-WARNING **: 20:19:25.042: (../vte/src/vtepty.cc:813):void vte_pty_spawn_with_fds_async(VtePty*, const char*, const char* const*, const char* const*, const int*, int, const int*, int, GSpawnFlags, GSpawnChildSetupFunc, gpointer, GDestroyNotify, int, GCancellable*, GAsyncReadyCallback, gpointer): runtime check failed: ((spawn_flags & forbidden_spawn_flags()) == 0)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+
+(xfce4-panel:1263): Gtk-CRITICAL **: 20:23:15.186: gtk_icon_theme_load_icon: assertion 'icon_name != NULL' failed
+
+(xfce4-panel:1263): Gtk-CRITICAL **: 20:23:15.188: gtk_icon_theme_load_icon: assertion 'icon_name != NULL' failed
+Loaded SDL version 2.0.13-6142881
+
+(steam:3222): Gtk-WARNING **: 20:23:27.990: Unable to locate theme engine in module_path: "adwaita",
+
+(steam:3222): Gtk-WARNING **: 20:23:27.997: Unable to locate theme engine in module_path: "murrine",
+
+(steam:3222): Gtk-WARNING **: 20:23:27.997: Unable to locate theme engine in module_path: "murrine",
+
+(steam:3222): Gtk-WARNING **: 20:23:27.997: Unable to locate theme engine in module_path: "murrine",
+
+(steam:3222): Gtk-WARNING **: 20:23:28.045: Unable to locate theme engine in module_path: "murrine",
+
+(steam:3222): Gtk-WARNING **: 20:23:28.045: Unable to locate theme engine in module_path: "murrine",
+
+(steam:3222): Gtk-WARNING **: 20:23:28.045: Unable to locate theme engine in module_path: "murrine",
+
+(steam:3222): Gtk-WARNING **: 20:23:28.047: Unable to locate theme engine in module_path: "murrine",
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+[1102/202339.138767:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1102/202339.446627:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[1102/202339.446794:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1603484818
+[1102/202339.446812:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[1102/202339.446827:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[1102/202340.055560:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[1102/202340.055802:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1603484818
+[1102/202340.055834:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[1102/202340.055858:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[1102/202340.056862:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: gpu-process
+[1102/202340.365163:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[1102/202340.365330:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1603484818
+[1102/202340.365381:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[1102/202340.365393:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[1102/202340.366604:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+Warning: failed to set thread priority: set failed for priority 8
+Warning: support for elevated priorities is most likely unavailable, suppressing future warnings
+Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+CAppInfoCacheReadFromDiskThread took 1004 milliseconds to initialize
+CApplicationManagerPopulateThread took 25691 milliseconds to initialize (will have waited on CAppInfoCacheReadFromDiskThread)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Proceed to auto login
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Opted-in Controller Mask for AppId 0: a
+[3594:1102/202413.740934:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[3594:1102/202419.493424:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+
+(steam:3222): Gtk-WARNING **: 20:24:21.827: gtk_disable_setlocale() must be called before gtk_init()
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+roaming config store loaded successfully - 14925 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 111ms
+WARNING: Experimental compiler backend enabled. Here be dragons! Incorrect rendering, GPU hangs and/or resets are likely
+[1102/202432.255904:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[1102/202434.164773:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[1102/202435.129660:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+WARNING: Experimental compiler backend enabled. Here be dragons! Incorrect rendering, GPU hangs and/or resets are likely
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Failed to init SteamVR because it isn't installed
+(electron) 'setBadgeCount function' is deprecated and will be removed. Please use 'badgeCount property' instead.
+ExecCommandLine: "'/home/matra/.local/share/Steam/ubuntu12_32/steam'"
+System startup time: 85.68 seconds
+[1102/202449.176735:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[1102/202449.206463:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+BuildCompleteAppOverviewChange: 410
+RegisterForAppOverview 1: 77ms
+RegisterForAppOverview 2: 78ms
+[570]Non-Steam Controller Configs Enabled: 1
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+GameAction [AppID 570, ActionID 1] : LaunchApp changed task to UpdatingAppInfo with ""
+Opted-in Controller Mask for AppId 570: a
+GameAction [AppID 570, ActionID 1] : LaunchApp changed task to ProcessingInstallScript with ""
+GameAction [AppID 570, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+GameAction [AppID 570, ActionID 1] : LaunchApp changed task to ProcessingShaderCache with ""
+GameAction [AppID 570, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+GameAction [AppID 570, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+GameAction [AppID 570, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+GameAction [AppID 570, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+Game update: AppID 570 "", ProcID 4509, IP 0.0.0.0:0
+ERROR: ld.so: object '/home/matra/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Starting app 570
+>>> Adding process 4509 for game ID 570
+GameAction [AppID 570, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+ERROR: ld.so: object '/home/matra/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+pid 4512 != 4510, skipping destruction (fork without exec?)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+ERROR: ld.so: object '/home/matra/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/matra/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+GameAction [AppID 570, ActionID 1] : LaunchApp changed task to Completed with ""
+>>> Adding process 4510 for game ID 570
+>>> Adding process 4513 for game ID 570
+>>> Adding process 4515 for game ID 570
+ERROR: ld.so: object '/home/matra/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/matra/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+>>> Adding process 4516 for game ID 570
+Using breakpad crash handler
+[S_API] SteamAPI_Init(): Loaded '/home/matra/.local/share/Steam/linux64/steamclient.so' OK.
+Game update: AppID 570 "", ProcID 4515, IP 0.0.0.0:0
+RecordSteamInterfaceCreation (PID 4515): SteamUtils010 / 
+Setting breakpad minidump AppID = 570
+Forcing breakpad minidump interfaces to load
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+RecordSteamInterfaceCreation (PID 4515): SteamUser021 / User
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198029701701 [API loaded yes]
+SteamInternal_SetMinidumpSteamID:  Setting Steam ID:  76561198029701701
+RecordSteamInterfaceCreation (PID 4515): SteamUtils010 / 
+RecordSteamInterfaceCreation (PID 4515): SteamUser021 / 
+Setting breakpad minidump AppID = 373300
+RecordSteamInterfaceCreation (PID 4515): SteamFriends017 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchMaking009 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchGameSearch001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchMakingServers002 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMUSERSTATS_INTERFACE_VERSION012 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMAPPS_INTERFACE_VERSION008 / 
+RecordSteamInterfaceCreation (PID 4515): SteamNetworking006 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMHTTP_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 4515): SteamController007 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMUGC_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMAPPLIST_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMMUSIC_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMINVENTORY_INTERFACE_V003 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMVIDEO_INTERFACE_V002 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamInput001 / 
+[1102/203718.366574:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[1102/203718.366834:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1603484818
+[1102/203718.366861:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[1102/203718.366880:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[1102/203719.396661:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1102/203720.289346:WARNING:audio_output_device.cc(317)] Output device authorization timed out
+[1102/203723.651276:WARNING:push_pull_fifo.cc(191)] PushPullFIFO: underflow while pulling (underflowCount=1, availableFrames=55, requestedFrames=441, fifoLength=12288)
+ failed to dlopen "/home/matra/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/librendersystemvulkan.so" error=/home/matra/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/librendersystemvulkan.so: cannot open shared object file: No such file or directory
+ failed to dlopen "librendersystemvulkan.so" error=librendersystemvulkan.so: cannot open shared object file: No such file or directory
+Installing breakpad exception handler for appid(gameoverlayui)/version(20201023202654)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Fontconfig warning: "/home/matra/.local/share/Steam/steamapps/common/dota 2 beta/game/core/panorama/fonts/conf.d/41-repl-os-win.conf", line 148: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/home/matra/.local/share/Steam/steamapps/common/dota 2 beta/game/core/panorama/fonts/conf.d/41-repl-os-win.conf", line 160: Having multiple values in <test> isn't supported and may not work as expected
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+RecordSteamInterfaceCreation (PID 4515): SteamUser021 / 
+RecordSteamInterfaceCreation (PID 4515): SteamFriends017 / 
+RecordSteamInterfaceCreation (PID 4515): SteamUtils010 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchMaking009 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchGameSearch001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchMakingServers002 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMUSERSTATS_INTERFACE_VERSION012 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMAPPS_INTERFACE_VERSION008 / 
+RecordSteamInterfaceCreation (PID 4515): SteamNetworking006 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMHTTP_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 4515): SteamController007 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMUGC_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMAPPLIST_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMMUSIC_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMINVENTORY_INTERFACE_V003 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMVIDEO_INTERFACE_V002 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamInput001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamUtils009 / Utils
+RecordSteamInterfaceCreation (PID 4515): SteamNetworkingSocketsSerialized004 / 
+RecordSteamInterfaceCreation (PID 4515): SteamUser020 / User
+RecordSteamInterfaceCreation (PID 4515): STEAMHTTP_INTERFACE_VERSION003 / HTTP
+[1102/203821.301329:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+[000:000] [3725] (audio_device_pulse_linux.cc:1855): Can't query latency
+[000:317] [3724] (audio_device_pulse_linux.cc:1855): Can't query latency
+[001:015] [3706] (audio_send_stream.cc:285): Failed to set up send codec state.
+[001:888] [3706] (audio_send_stream.cc:285): Failed to set up send codec state.
+[001:888] [3706] (audio_device_generic.cc:31): BuiltInAECIsAvailable: Not supported on this platform
+[002:351] [3706] (audio_send_stream.cc:285): Failed to set up send codec state.
+RecordSteamInterfaceCreation (PID 4515): SteamUser021 / 
+RecordSteamInterfaceCreation (PID 4515): SteamFriends017 / 
+RecordSteamInterfaceCreation (PID 4515): SteamUtils010 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchMaking009 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchGameSearch001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchMakingServers002 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMUSERSTATS_INTERFACE_VERSION012 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMAPPS_INTERFACE_VERSION008 / 
+RecordSteamInterfaceCreation (PID 4515): SteamNetworking006 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMHTTP_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 4515): SteamController007 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMUGC_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMAPPLIST_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMMUSIC_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMINVENTORY_INTERFACE_V003 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMVIDEO_INTERFACE_V002 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamInput001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamUser021 / 
+RecordSteamInterfaceCreation (PID 4515): SteamFriends017 / 
+RecordSteamInterfaceCreation (PID 4515): SteamUtils010 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchMaking009 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchGameSearch001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchMakingServers002 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMUSERSTATS_INTERFACE_VERSION012 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMAPPS_INTERFACE_VERSION008 / 
+RecordSteamInterfaceCreation (PID 4515): SteamNetworking006 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMHTTP_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 4515): SteamController007 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMUGC_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMAPPLIST_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMMUSIC_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMINVENTORY_INTERFACE_V003 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMVIDEO_INTERFACE_V002 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamInput001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamAppDisableUpdate001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamGameCoordinator001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamUser021 / User
+RecordSteamInterfaceCreation (PID 4515): SteamUser021 / 
+RecordSteamInterfaceCreation (PID 4515): SteamFriends017 / 
+RecordSteamInterfaceCreation (PID 4515): SteamUtils010 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchMaking009 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchGameSearch001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamMatchMakingServers002 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMUSERSTATS_INTERFACE_VERSION012 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMAPPS_INTERFACE_VERSION008 / 
+RecordSteamInterfaceCreation (PID 4515): SteamNetworking006 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMHTTP_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 4515): SteamController007 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMUGC_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMAPPLIST_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMMUSIC_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMINVENTORY_INTERFACE_V003 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMVIDEO_INTERFACE_V002 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamInput001 / 
+ failed to dlopen "libtensorflow.so" error=libtensorflow.so: cannot open shared object file: No such file or directory
+RecordSteamInterfaceCreation (PID 4515): SteamUtils010 / 
+RecordSteamInterfaceCreation (PID 4515): SteamController007 / 
+RecordSteamInterfaceCreation (PID 4515): SteamInput001 / 
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+ERROR: ld.so: object '/home/matra/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+RecordSteamInterfaceCreation (PID 4515): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 4515): STEAMHTTP_INTERFACE_VERSION003 / 
+>>> Adding process 4635 for game ID 570
+ERROR: ld.so: object '/home/matra/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+>>> Adding process 4740 for game ID 570
+[366:322] [3724] (audio_device_pulse_linux.cc:1855): Can't query latency
+RecordSteamInterfaceCreation (PID 4515): SteamGameStats001 / 
+Created OPUS PLC voice encoder
+Created OPUS PLC voice decoder
+RecordSteamInterfaceCreation (PID 4515): SteamGameStats001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamGameStats001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamGameStats001 / 
+RecordSteamInterfaceCreation (PID 4515): SteamGameStats001 / 
+warning: The VAD has been replaced by a hack pending a complete rewrite
+RecordSteamInterfaceCreation (PID 4515): SteamGameStats001 / 
+Game removed: AppID 570 "", ProcID 4515 
+Game 570 created interface STEAMAPPLIST_INTERFACE_VERSION001 / 
+Game 570 created interface STEAMAPPS_INTERFACE_VERSION008 / 
+Game 570 created interface STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+Game 570 created interface STEAMHTTP_INTERFACE_VERSION003 / 
+Game 570 created interface STEAMHTTP_INTERFACE_VERSION003 / HTTP
+Game 570 created interface STEAMINVENTORY_INTERFACE_V003 / 
+Game 570 created interface STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+Game 570 created interface STEAMMUSIC_INTERFACE_VERSION001 / 
+Game 570 created interface STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+Game 570 created interface STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+Game 570 created interface STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+Game 570 created interface STEAMUGC_INTERFACE_VERSION014 / 
+Game 570 created interface STEAMUSERSTATS_INTERFACE_VERSION012 / 
+Game 570 created interface STEAMVIDEO_INTERFACE_V002 / 
+Game 570 created interface SteamAppDisableUpdate001 / 
+Game 570 created interface SteamController007 / 
+Game 570 created interface SteamFriends017 / 
+Game 570 created interface SteamGameCoordinator001 / 
+Game 570 created interface SteamGameStats001 / 
+Game 570 created interface SteamInput001 / 
+Game 570 created interface SteamMatchGameSearch001 / 
+Game 570 created interface SteamMatchMaking009 / 
+Game 570 created interface SteamMatchMakingServers002 / 
+Game 570 created interface SteamNetworking006 / 
+Game 570 created interface SteamNetworkingSocketsSerialized004 / 
+Game 570 created interface SteamUser020 / User
+Game 570 created interface SteamUser021 / 
+Game 570 created interface SteamUser021 / User
+Game 570 created interface SteamUtils009 / Utils
+Game 570 created interface SteamUtils010 / 
+Game 570 method call count for IClientUser::CancelAuthTicket : 1
+Game 570 method call count for IClientUser::BLoggedOn : 7
+Game 570 method call count for IClientUser::BIsPhoneVerified : 11925
+Game 570 method call count for IClientUser::GetDurationControl : 1
+Game 570 method call count for IClientUser::GetAuthSessionTicket : 1
+Game 570 method call count for IClientUser::GetSteamID : 186
+Game 570 method call count for IClientFriends::GetSmallFriendAvatar : 233
+Game 570 method call count for IClientFriends::GetMediumFriendAvatar : 19
+Game 570 method call count for IClientFriends::GetFriendCount : 26
+Game 570 method call count for IClientFriends::RequestUserInformation : 128
+Game 570 method call count for IClientFriends::SetListenForFriendsMessages : 7
+Game 570 method call count for IClientFriends::GetPersonaState : 833
+Game 570 method call count for IClientFriends::GetFriendPersonaState : 99
+Game 570 method call count for IClientFriends::GetFriendRelationship : 534
+Game 570 method call count for IClientFriends::GetFriendGamePlayed : 99
+Game 570 method call count for IClientFriends::SetRichPresence : 396
+Game 570 method call count for IClientFriends::GetFriendByIndex : 624
+Game 570 method call count for IClientFriends::GetPersonaName : 2
+Game 570 method call count for IClientFriends::GetFriendRichPresence : 717
+Game 570 method call count for IClientFriends::GetFriendPersonaName_Public : 269
+Game 570 method call count for IClientFriends::GetPlayerNickname_Public : 772
+Game 570 method call count for IClientUtils::GetImageRGBA : 110
+Game 570 method call count for IClientUtils::IsSteamChina : 197244
+Game 570 method call count for IClientUtils::InitFilterText : 1
+Game 570 method call count for IClientUtils::GetServerRealTime : 506
+Game 570 method call count for IClientUtils::GetImageSize : 110
+Game 570 method call count for IClientUtils::GetAppID : 137
+Game 570 method call count for IClientUtils::GetAPICallResult : 26
+Game 570 method call count for IClientUtils::GetCSERIPPort : 1
+Game 570 method call count for IClientUtils::GetConnectedUniverse : 9
+Game 570 method call count for IClientUtils::GetLauncherType : 1
+Game 570 method call count for IClientUtils::RecordSteamInterfaceCreation : 130
+Game 570 method call count for IClientUtils::FilterText : 10017
+Game 570 method call count for IClientUtils::GetIPCountry : 1
+Game 570 method call count for IClientUtils::GetSteamUILanguage : 1
+Game 570 method call count for IClientAppManager::IsAppDlcInstalled : 2
+Game 570 method call count for IClientAppManager::GetAppStateInfo : 1
+Game 570 method call count for IClientAppManager::GetAppInstallDir : 1
+Game 570 method call count for IClientAppManager::GetCurrentLanguage : 1
+Game 570 method call count for IClientUserStats::GetNumberOfCurrentPlayers : 2
+Game 570 method call count for IClientUserStats::RequestCurrentStats : 1
+Game 570 method call count for IClientNetworking::GetMaxPacketSize : 1
+Game 570 method call count for IClientRemoteStorage::GetFileCount : 2
+Game 570 method call count for IClientRemoteStorage::FileWrite : 1
+Game 570 method call count for IClientRemoteStorage::FileRead : 18
+Game 570 method call count for IClientRemoteStorage::GetFileSize : 21
+Game 570 method call count for IClientRemoteStorage::FileExists : 27
+Game 570 method call count for IClientRemoteStorage::FileWriteAsync : 16
+Game 570 method call count for IClientRemoteStorage::GetFileNameAndSize : 32
+Game 570 method call count for IClientGameCoordinator::SendMessage : 37
+Game 570 method call count for IClientGameCoordinator::IsMessageAvailable : 147
+Game 570 method call count for IClientGameCoordinator::RetrieveMessage : 73
+Game 570 method call count for IClientGameStats::CommitRow : 1
+Game 570 method call count for IClientGameStats::EndSession : 1
+Game 570 method call count for IClientGameStats::GetNewSession : 1
+Game 570 method call count for IClientGameStats::AddSessionAttributeInt : 3
+Game 570 method call count for IClientGameStats::AddRowAttributeInt : 18
+Game 570 method call count for IClientGameStats::AddRowAttributeString : 7
+Game 570 method call count for IClientGameStats::AddNewRow : 1
+Game 570 method call count for IClientGameStats::AddRowAttributeInt64 : 1
+Game 570 method call count for IClientGameStats::AddSessionAttributeInt64 : 1
+Game 570 method call count for IClientGameStats::AddRowAttributeFloat : 6
+Game 570 method call count for IClientHTTP::GetHTTPResponseBodyData : 6
+Game 570 method call count for IClientHTTP::ReleaseHTTPRequest : 5
+Game 570 method call count for IClientHTTP::SendHTTPRequest : 6
+Game 570 method call count for IClientHTTP::GetHTTPResponseBodySize : 4
+Game 570 method call count for IClientHTTP::SetHTTPRequestContextValue : 3
+Game 570 method call count for IClientHTTP::SetHTTPRequestHeaderValue : 1
+Game 570 method call count for IClientHTTP::GetHTTPResponseHeaderValue : 2
+Game 570 method call count for IClientHTTP::GetHTTPResponseHeaderSize : 2
+Game 570 method call count for IClientHTTP::CreateHTTPRequest : 6
+Game 570 method call count for IClientHTTP::SetHTTPRequestNetworkActivityTimeout : 1
+Game 570 method call count for IClientHTTP::SetHTTPRequestGetOrPostParameter : 1
+Game 570 method call count for IClientAudio::StartVoiceRecording : 1
+Game 570 method call count for IClientAudio::StopVoiceRecording : 1
+Game 570 method call count for IClientAudio::GetAvailableVoice : 596
+Game 570 method call count for IClientAudio::GetVoice : 362
+Game 570 method call count for IClientAudio::DecompressVoice : 10
+Game 570 method call count for IClientAudio::GetVoiceOptimalSampleRate : 1
+Game 570 method call count for IClientUGC::CreateQueryUGCDetailsRequest : 3
+Game 570 method call count for IClientUGC::StartPlaytimeTracking : 1
+Game 570 method call count for IClientUGC::StopPlaytimeTracking : 1
+Game 570 method call count for IClientUGC::SendQueryUGCRequest : 7
+Game 570 method call count for IClientUGC::GetQueryUGCPreviewURL : 58
+Game 570 method call count for IClientUGC::GetQueryUGCNumKeyValueTags : 55
+Game 570 method call count for IClientUGC::GetQueryUGCKeyValueTag : 132
+Game 570 method call count for IClientUGC::ReleaseQueryUGCRequest : 4
+Game 570 method call count for IClientUGC::SetReturnKeyValueTags : 7
+Game 570 method call count for IClientUGC::SetReturnLongDescription : 7
+Game 570 method call count for IClientUGC::SetRankedByTrendDays : 1
+Game 570 method call count for IClientUGC::GetUserItemVote : 1
+Game 570 method call count for IClientUGC::GetItemState : 2
+Game 570 method call count for IClientUGC::GetItemInstallInfo : 44
+Game 570 method call count for IClientUGC::CreateQueryUserUGCRequest : 3
+Game 570 method call count for IClientUGC::CreateQueryAllUGCRequest : 1
+Game 570 method call count for IClientUGC::GetQueryUGCResult : 58
+Game 570 method call count for IClientUGC::GetQueryUGCStatistic : 174
+Game 570 method call count for IClientUGC::AddRequiredTag : 3
+Game 570 method call count for IClientAppDisableUpdate::SetAppUpdateDisabledSecondsRemaining : 9
+Game 570 method call count for IClientNetworkingSocketsSerialized::CacheRelayTicket : 1
+Game 570 method call count for IClientNetworkingSocketsSerialized::GetSTUNServer : 2
+Game 570 method call count for IClientNetworkingSocketsSerialized::GetCertAsync : 1
+Game 570 method call count for IClientNetworkingSocketsSerialized::GetCachedRelayTicketCount : 1
+Uploaded AppInterfaceStats to Steam
+Exiting app 570
+No cached sticky mapping in ActivateActionSet.[588650]Non-Steam Controller Configs Enabled: 1
+GameAction [AppID 570, ActionID 2] : LaunchApp changed task to UpdatingAppInfo with ""
+GameAction [AppID 570, ActionID 2] : LaunchApp changed task to ProcessingInstallScript with ""
+GameAction [AppID 570, ActionID 2] : LaunchApp changed task to SynchronizingCloud with ""
+GameAction [AppID 570, ActionID 2] : LaunchApp changed task to ProcessingShaderCache with ""
+Opted-in Controller Mask for AppId 0: a
+Opted-in Controller Mask for AppId 0: a
+Opted-in Controller Mask for AppId 0: a
+[1059:439] [3724] (audio_device_pulse_linux.cc:1855): Can't query latency
+GameAction [AppID 570, ActionID 3] : LaunchApp changed task to UpdatingAppInfo with ""
+Opted-in Controller Mask for AppId 570: a
+GameAction [AppID 570, ActionID 3] : LaunchApp changed task to ProcessingInstallScript with ""
+GameAction [AppID 570, ActionID 3] : LaunchApp changed task to SynchronizingCloud with ""
+flock /home/matra/.local/share/Steam/steamapps/shadercache/570/AMDv1/steamapp_shader_cache_1.parc LOCK_SH failed. errno = 11flock /home/matra/.local/share/Steam/steamapps/shadercache/570/AMDv1/steamapp_shader_cache_2.parc LOCK_SH failed. errno = 11GameAction [AppID 570, ActionID 3] : LaunchApp changed task to ProcessingShaderCache with ""
+flock /home/matra/.local/share/Steam/steamapps/shadercache/570/AMDv1/steamapp_shader_cache.parc LOCK_SH failed. errno = 11assert_20201102202305_1.dmp[5108]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20201102202305_1.dmp
+assert_20201102202305_1.dmp[5108]: Finished uploading minidump (out-of-process): success = yes
+assert_20201102202305_1.dmp[5108]: response: CrashID=bp-529f93f2-b31b-4879-9036-34e202201102
+assert_20201102202305_1.dmp[5108]: file ''/tmp/dumps/assert_20201102202305_1.dmp'', upload yes: ''CrashID=bp-529f93f2-b31b-4879-9036-34e202201102''
+/home/matra/.local/share/Steam/steam.sh: line 750:  3222 Segmentation fault      (core dumped) $STEAM_DEBUGGER "$STEAMROOT/$STEAMEXEPATH" "$@"
+
+(xfce4-terminal:5119): Gtk-WARNING **: 20:57:54.258: TerminalWidget 0x55c125334a30 reported min size 18 and natural size 10 in get_preferred_width(); natural size must be >= min size
+
+(xfce4-terminal:5119): VTE-WARNING **: 20:57:56.732: (../vte/src/vtepty.cc:813):void vte_pty_spawn_with_fds_async(VtePty*, const char*, const char* const*, const char* const*, const int*, int, const int*, int, GSpawnFlags, GSpawnChildSetupFunc, gpointer, GDestroyNotify, int, GCancellable*, GAsyncReadyCallback, gpointer): runtime check failed: ((spawn_flags & forbidden_spawn_flags()) == 0)
+spotify: /usr/lib/libcurl-gnutls.so.4: no version information available (required by spotify)
+/opt/spotify/spotify: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /opt/spotify/spotify)
+/opt/spotify/spotify: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /opt/spotify/spotify)
+/proc/self/exe: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /proc/self/exe)
+
+(xfce4-panel:1263): Gtk-CRITICAL **: 20:59:01.062: gtk_icon_theme_load_icon: assertion 'icon_name != NULL' failed
+
+(xfce4-panel:1263): Gtk-CRITICAL **: 20:59:01.064: gtk_icon_theme_load_icon: assertion 'icon_name != NULL' failed
+
+** (pcmanfm:5365): WARNING **: 21:02:11.814: terminal alacritty isn't known, consider report it to LibFM developers
+thunar-volman: Unsupported USB device type "usb".
+thunar-volman: Unsupported USB device type "usbhid".
+thunar-volman: Unsupported USB device type "usbhid".
+thunar-volman: Unsupported USB device type "usbhid".
+thunar-volman: Unsupported input device type "/dev/input/event9".
+thunar-volman: Unsupported input device type "/dev/input/event5".
+thunar-volman: Unsupported input device type "/dev/input/event7".
+thunar-volman: Unsupported input device type "/dev/input/event6".
+thunar-volman: Unsupported input device type "(null)".
+thunar-volman: Unsupported input device type "(null)".
+thunar-volman: Unsupported input device type "(null)".
+** Message: 21:10:20.384: updates_checker.vala:65: check updates
+** Message: 21:10:21.480: updates_checker.vala:95: 0 updates found
+thunar-volman: Unsupported USB device type "usb".
+thunar-volman: Unsupported input device type "/dev/input/event10".
+thunar-volman: Unsupported input device type "/dev/input/event19".
+thunar-volman: Unsupported input device type "(null)".
+thunar-volman: Unsupported USB device type "usbhid".
+thunar-volman: Unsupported USB device type "usbhid".
+thunar-volman: Unsupported USB device type "usb".
+thunar-volman: Unsupported USB device type "usbhid".
+thunar-volman: Unsupported USB device type "usbhid".
+thunar-volman: There is no device with the sysfs path "/sys/devices/pci0000:00/0000:00:10.0/usb2/2-3/2-3:1.1/0003:046D:C534.000C/input/input32".
+thunar-volman: There is no device with the sysfs path "/sys/devices/pci0000:00/0000:00:10.0/usb2/2-3/2-3:1.1/0003:046D:C534.000C/0003:046D:4058.000E/input/input43".
+thunar-volman: Unsupported input device type "/dev/input/event6".
+
+(xfce4-settings-manager:6033): Gtk-CRITICAL **: 21:22:03.890: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-settings-manager:6033): Gtk-CRITICAL **: 21:22:05.884: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-color-settings:6062): Gtk-CRITICAL **: 21:23:18.493: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-settings-manager:6058): xfce4-settings-manager-CRITICAL **: 21:24:00.217: pluggable dialog "blueman-adapters" crashed
+error: Could not find thumbnail in zip file
+error: Could not find thumbnail in zip file
+error: Could not find thumbnail in zip file
+
+(pcmanfm:5365): GLib-GObject-CRITICAL **: 21:31:36.224: g_object_notify: assertion 'G_IS_OBJECT (object)' failed
+error: Could not find thumbnail in zip file
+! SyncTeX Error : No file?
+error: Could not find thumbnail in zip file
+error: Could not find thumbnail in zip file
+error: Could not find thumbnail in zip file
+error: Could not find thumbnail in zip file
+error: Could not find thumbnail in zip file
+error: The metadata does not have a thumbnail property
+(electron) 'getName function' is deprecated and will be removed. Please use 'name property' instead.
+(electron) 'setBadgeCount function' is deprecated and will be removed. Please use 'badgeCount property' instead.
+(electron) 'setZoomLevel function' is deprecated and will be removed. Please use 'zoomLevel property' instead.
+error: Could not find thumbnail in zip file
+
+(pcmanfm:5365): GLib-CRITICAL **: 21:54:30.173: Source ID 49 was not found when attempting to remove it
+WARNING: Experimental compiler backend enabled. Here be dragons! Incorrect rendering, GPU hangs and/or resets are likely
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.213: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.213: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.214: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.214: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.215: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.215: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.229: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.229: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.229: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.229: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.229: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.229: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.289: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.290: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.290: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.290: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.290: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.290: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.316: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.316: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.316: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.316: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.316: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.316: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.343: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.343: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.343: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.343: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.343: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.343: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.776: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.776: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.776: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.776: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.776: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.776: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.791: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.791: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.792: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.792: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.792: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.792: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.861: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.861: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.861: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.861: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.861: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:09.861: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:13.212: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:13.212: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:13.213: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:13.213: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:13.213: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:13.213: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:19.506: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:19.506: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:19.506: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:19.506: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:19.506: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:19.506: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:21.431: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:21.432: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:21.432: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:21.432: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:21.432: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:21.432: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:22.900: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:22.900: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:22.900: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:22.900: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:28.489: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:28.490: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:33.643: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:33.643: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:33.643: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:33.643: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:35.165: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:35.165: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:36.244: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8068): Gtk-CRITICAL **: 21:59:36.244: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.015: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.031: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.032: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.032: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.032: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.032: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.053: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.053: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.053: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.053: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.053: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.054: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.115: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.115: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.115: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.115: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.115: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.115: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.140: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.140: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.140: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.140: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.140: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.140: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.188: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.188: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.189: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.189: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.189: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.189: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.696: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.696: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.697: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.697: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.697: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.697: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.722: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.722: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.722: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.722: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.722: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8338): Gtk-CRITICAL **: 22:05:10.722: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.591: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.592: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.592: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.592: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.592: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.592: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.642: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.642: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.642: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.642: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.642: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.642: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.680: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.680: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.680: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.680: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.680: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.680: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.720: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.720: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.720: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.720: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.720: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.720: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.786: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.786: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.786: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.786: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.786: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.786: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.804: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.804: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.804: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.804: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.804: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.804: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.816: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.817: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.817: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.817: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.817: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.817: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.833: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.833: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.834: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.834: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.834: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.834: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.852: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.852: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.852: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.852: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.852: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.852: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.869: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.869: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.869: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.869: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.869: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.869: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.888: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.888: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.888: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.888: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.888: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.888: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.978: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.978: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.978: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.978: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.978: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:17.978: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:19.667: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:19.667: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:19.667: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:19.667: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:19.667: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:19.667: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:21.468: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:21.468: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:21.469: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:21.469: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:21.469: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:21.469: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:21.508: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:21.508: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:21.508: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:21.508: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:21.508: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:8404): Gtk-CRITICAL **: 22:06:21.508: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+** Message: 22:10:22.197: updates_checker.vala:65: check updates
+** Message: 22:10:22.859: updates_checker.vala:95: 0 updates found
+! SyncTeX Error : No file?
+
+(atril-thumbnailer:8842): GLib-GObject-CRITICAL **: 22:11:52.408: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+
+(atril-thumbnailer:8842): GLib-GObject-CRITICAL **: 22:11:52.409: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (atril-thumbnailer:8842): CRITICAL **: 22:11:52.409: void pdf_document_get_page_size(EvDocument*, EvPage*, double*, double*): assertion 'POPPLER_IS_PAGE (page->backend_page)' failed
+
+** (atril-thumbnailer:8842): CRITICAL **: 22:11:52.409: char* pdf_document_get_page_label(EvDocument*, EvPage*): assertion 'POPPLER_IS_PAGE (page->backend_page)' failed
+
+(atril-thumbnailer:8842): GLib-GObject-CRITICAL **: 22:11:52.409: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(atril-thumbnailer:8842): GLib-GObject-CRITICAL **: 22:11:52.409: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+
+(atril-thumbnailer:8842): GLib-GObject-CRITICAL **: 22:11:52.409: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (atril-thumbnailer:8842): CRITICAL **: 22:11:52.409: void pdf_document_get_page_size(EvDocument*, EvPage*, double*, double*): assertion 'POPPLER_IS_PAGE (page->backend_page)' failed
+
+** (atril-thumbnailer:8842): CRITICAL **: 22:11:52.409: char* pdf_document_get_page_label(EvDocument*, EvPage*): assertion 'POPPLER_IS_PAGE (page->backend_page)' failed
+
+(atril-thumbnailer:8842): GLib-GObject-CRITICAL **: 22:11:52.409: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(atril-thumbnailer:8842): GLib-GObject-CRITICAL **: 22:11:52.409: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+
+(atril-thumbnailer:8842): GLib-GObject-CRITICAL **: 22:11:52.409: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (atril-thumbnailer:8842): CRITICAL **: 22:11:52.409: void pdf_document_get_page_size(EvDocument*, EvPage*, double*, double*): assertion 'POPPLER_IS_PAGE (page->backend_page)' failed
+
+** (atril-thumbnailer:8842): CRITICAL **: 22:11:52.409: char* pdf_document_get_page_label(EvDocument*, EvPage*): assertion 'POPPLER_IS_PAGE (page->backend_page)' failed
+
+(atril-thumbnailer:8842): GLib-GObject-CRITICAL **: 22:11:52.409: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+error: Could not find thumbnail in zip file
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+error: Could not find thumbnail in zip file
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+error: Could not find thumbnail in zip file
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+Error loading document: File type plain text document (text/plain) is not supported
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+error: Could not find thumbnail in zip file
+error: Could not find thumbnail in zip file
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+22:39:04 INFO: Recording macro 'q'...
+22:39:05 INFO: Macro 'q' recorded.
+22:39:07 INFO: Recording macro ':'...
+22:39:11 INFO: Macro ':' recorded.
+[0000555670185660] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+
+(pcmanfm:5365): Gtk-WARNING **: 22:43:06.927: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): GLib-CRITICAL **: 22:43:51.122: Source ID 44106 was not found when attempting to remove it
+
+(xfce4-terminal:11260): Gtk-WARNING **: 22:50:48.320: TerminalWidget 0x555b51884a30 reported min size 18 and natural size 10 in get_preferred_width(); natural size must be >= min size
+
+(xfce4-terminal:11260): VTE-WARNING **: 22:50:48.445: (../vte/src/vtepty.cc:813):void vte_pty_spawn_with_fds_async(VtePty*, const char*, const char* const*, const char* const*, const int*, int, const int*, int, GSpawnFlags, GSpawnChildSetupFunc, gpointer, GDestroyNotify, int, GCancellable*, GAsyncReadyCallback, gpointer): runtime check failed: ((spawn_flags & forbidden_spawn_flags()) == 0)
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+error: Could not find thumbnail in zip file
+error: The metadata does not have a thumbnail property
+error: Could not find thumbnail in zip file
+error: The metadata does not have a thumbnail property
+error: Could not find thumbnail in zip file
+error: The metadata does not have a thumbnail property
+error: The metadata does not have a thumbnail property
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+
+(xfce4-terminal:11260): VTE-WARNING **: 23:02:04.437: (../vte/src/vtepty.cc:813):void vte_pty_spawn_with_fds_async(VtePty*, const char*, const char* const*, const char* const*, const int*, int, const int*, int, GSpawnFlags, GSpawnChildSetupFunc, gpointer, GDestroyNotify, int, GCancellable*, GAsyncReadyCallback, gpointer): runtime check failed: ((spawn_flags & forbidden_spawn_flags()) == 0)
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+Entity: line 1: parser error : Start tag expected, '<' not found
+x�۲�X�-��_�ʲn�4r,.'+�%!	I!	��E�~�T��fݯ�a�%gJ��Y�u"�Te����]&�2/
+^
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+! SyncTeX Error : No file?
+error: The metadata does not have a thumbnail property
+error: The metadata does not have a thumbnail property
+error: The metadata does not have a thumbnail property
+
+(xfce4-terminal:11958): Gtk-WARNING **: 23:05:46.083: TerminalWidget 0x55fad13d8a30 reported min size 18 and natural size 10 in get_preferred_width(); natural size must be >= min size
+
+(xfce4-terminal:11958): VTE-WARNING **: 23:05:46.126: (../vte/src/vtepty.cc:813):void vte_pty_spawn_with_fds_async(VtePty*, const char*, const char* const*, const char* const*, const int*, int, const int*, int, GSpawnFlags, GSpawnChildSetupFunc, gpointer, GDestroyNotify, int, GCancellable*, GAsyncReadyCallback, gpointer): runtime check failed: ((spawn_flags & forbidden_spawn_flags()) == 0)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+
+(xfce4-panel:1263): Gtk-CRITICAL **: 23:09:21.184: gtk_icon_theme_load_icon: assertion 'icon_name != NULL' failed
+
+(xfce4-panel:1263): Gtk-CRITICAL **: 23:09:21.188: gtk_icon_theme_load_icon: assertion 'icon_name != NULL' failed
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603487799)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Loaded SDL version 2.0.13-6142881
+
+(steam:12265): Gtk-WARNING **: 23:09:40.580: Unable to locate theme engine in module_path: "adwaita",
+
+(steam:12265): Gtk-WARNING **: 23:09:40.586: Unable to locate theme engine in module_path: "murrine",
+
+(steam:12265): Gtk-WARNING **: 23:09:40.587: Unable to locate theme engine in module_path: "murrine",
+
+(steam:12265): Gtk-WARNING **: 23:09:40.587: Unable to locate theme engine in module_path: "murrine",
+
+(steam:12265): Gtk-WARNING **: 23:09:40.590: Unable to locate theme engine in module_path: "murrine",
+
+(steam:12265): Gtk-WARNING **: 23:09:40.590: Unable to locate theme engine in module_path: "murrine",
+
+(steam:12265): Gtk-WARNING **: 23:09:40.590: Unable to locate theme engine in module_path: "murrine",
+
+(steam:12265): Gtk-WARNING **: 23:09:40.591: Unable to locate theme engine in module_path: "murrine",
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+[1102/230943.543782:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+CAppInfoCacheReadFromDiskThread took 405 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+Warning: failed to set thread priority: set failed for priority 8
+Warning: support for elevated priorities is most likely unavailable, suppressing future warnings
+Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+[1102/230944.290062:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[1102/230944.290486:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1603928085
+[1102/230944.290536:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[1102/230944.290550:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[1102/230949.645850:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[1102/230949.646024:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1603928085
+[1102/230949.646041:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[1102/230949.646056:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[1102/230949.647171:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: gpu-process
+[1102/230951.230207:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[1102/230951.230463:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1603928085
+[1102/230951.230481:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[1102/230951.230504:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[1102/230951.261264:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+CApplicationManagerPopulateThread took 10943 milliseconds to initialize (will have waited on CAppInfoCacheReadFromDiskThread)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Proceed to auto login
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Opted-in Controller Mask for AppId 0: a
+
+(steam:12265): Gtk-WARNING **: 23:09:58.246: gtk_disable_setlocale() must be called before gtk_init()
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+WARNING: Experimental compiler backend enabled. Here be dragons! Incorrect rendering, GPU hangs and/or resets are likely
+roaming config store loaded successfully - 14925 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 74ms
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+WARNING: Experimental compiler backend enabled. Here be dragons! Incorrect rendering, GPU hangs and/or resets are likely
+[1102/231007.882173:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[1102/231008.789362:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[1102/231009.246131:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/matra/.local/share/Steam/ubuntu12_32/steam'"
+System startup time: 36.20 seconds
+[1102/231016.430930:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[1102/231016.445134:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+BuildCompleteAppOverviewChange: 410
+RegisterForAppOverview 1: 67ms
+RegisterForAppOverview 2: 69ms
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+** Message: 23:10:23.452: updates_checker.vala:65: check updates
+** Message: 23:10:26.668: updates_checker.vala:95: 0 updates found
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+ExecuteSteamURL: "steam://open/downloads"
+[570]Non-Steam Controller Configs Enabled: 1
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+[1417440]Non-Steam Controller Configs Enabled: 1
+CAPIJobRequestUserStats - Server response failed 2
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+GameAction [AppID 1417440, ActionID 1] : UninstallApps waiting for user response to ConfirmUninstall "1417440"
+GameAction [AppID 1417440, ActionID 1] : UninstallApps continues with user response "ConfirmUninstall"
+GameAction [AppID 1417440, ActionID 1] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 1417440, ActionID 1] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 1417440, ActionID 1] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 1417440, ActionID 1] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 1417440, ActionID 1] : UninstallApps changed task to DeleteContent with ""
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+[1175140]Non-Steam Controller Configs Enabled: 1
+GameAction [AppID 1175140, ActionID 2] : UninstallApps waiting for user response to ConfirmUninstall "1175140"
+GameAction [AppID 1175140, ActionID 2] : UninstallApps continues with user response "ConfirmUninstall"
+GameAction [AppID 1175140, ActionID 2] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 1175140, ActionID 2] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 1175140, ActionID 2] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 1175140, ActionID 2] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 1175140, ActionID 2] : UninstallApps changed task to DeleteContent with ""
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+[322500]Non-Steam Controller Configs Enabled: 1
+GameAction [AppID 322500, ActionID 3] : UninstallApps waiting for user response to ConfirmUninstall "322500"
+GameAction [AppID 322500, ActionID 3] : UninstallApps continues with user response "ConfirmUninstall"
+GameAction [AppID 322500, ActionID 3] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 322500, ActionID 3] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 322500, ActionID 3] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 322500, ActionID 3] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 322500, ActionID 3] : UninstallApps changed task to DeleteContent with ""
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+[57300]Non-Steam Controller Configs Enabled: 1
+[1147940]Non-Steam Controller Configs Enabled: 1
+CAPIJobRequestUserStats - Server response failed 2
+GameAction [AppID 1147940, ActionID 4] : UninstallApps waiting for user response to ConfirmUninstall "1147940"
+GameAction [AppID 1147940, ActionID 4] : UninstallApps continues with user response "ConfirmUninstall"
+GameAction [AppID 1147940, ActionID 4] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 1147940, ActionID 4] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 1147940, ActionID 4] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 1147940, ActionID 4] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 1147940, ActionID 4] : UninstallApps changed task to DeleteContent with ""
+ExecuteSteamURL: "steam://open/downloads"
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+[3830]Non-Steam Controller Configs Enabled: 1
+GameAction [AppID 3830, ActionID 5] : UninstallApps waiting for user response to ConfirmUninstall "3830,242680,550,243970,219150,367520,456670,588650,247080,57300,252950,413150"
+GameAction [AppID 3830, ActionID 5] : UninstallApps continues with user response "ConfirmUninstall"
+GameAction [AppID 3830, ActionID 5] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 3830, ActionID 5] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 3830, ActionID 5] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 3830, ActionID 5] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 3830, ActionID 5] : UninstallApps changed task to DeleteContent with ""
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+GameAction [AppID 242680, ActionID 5] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 242680, ActionID 5] : UninstallApps changed task to InstallScript with ""
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+esync: up and running.
+GameAction [AppID 242680, ActionID 5] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 242680, ActionID 5] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 242680, ActionID 5] : UninstallApps changed task to DeleteContent with ""
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+GameAction [AppID 550, ActionID 5] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 550, ActionID 5] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 550, ActionID 5] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 550, ActionID 5] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 550, ActionID 5] : UninstallApps changed task to DeleteContent with ""
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+GameAction [AppID 243970, ActionID 5] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 243970, ActionID 5] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 243970, ActionID 5] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 243970, ActionID 5] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 243970, ActionID 5] : UninstallApps changed task to DeleteContent with ""
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+GameAction [AppID 219150, ActionID 5] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 219150, ActionID 5] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 219150, ActionID 5] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 219150, ActionID 5] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 219150, ActionID 5] : UninstallApps changed task to DeleteContent with ""
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+GameAction [AppID 367520, ActionID 5] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 367520, ActionID 5] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 367520, ActionID 5] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 367520, ActionID 5] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 367520, ActionID 5] : UninstallApps changed task to DeleteContent with ""
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+GameAction [AppID 456670, ActionID 5] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 456670, ActionID 5] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 456670, ActionID 5] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 456670, ActionID 5] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 456670, ActionID 5] : UninstallApps changed task to DeleteContent with ""
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+GameAction [AppID 588650, ActionID 5] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 588650, ActionID 5] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 588650, ActionID 5] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 588650, ActionID 5] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 588650, ActionID 5] : UninstallApps changed task to DeleteContent with ""
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+GameAction [AppID 247080, ActionID 5] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 247080, ActionID 5] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 247080, ActionID 5] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 247080, ActionID 5] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 247080, ActionID 5] : UninstallApps changed task to DeleteContent with ""
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+GameAction [AppID 57300, ActionID 5] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 57300, ActionID 5] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 57300, ActionID 5] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 57300, ActionID 5] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 57300, ActionID 5] : UninstallApps changed task to DeleteContent with ""
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+GameAction [AppID 252950, ActionID 5] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 252950, ActionID 5] : UninstallApps changed task to InstallScript with ""
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+WARNING: Experimental compiler backend enabled. Here be dragons! Incorrect rendering, GPU hangs and/or resets are likely
+GameAction [AppID 252950, ActionID 5] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 252950, ActionID 5] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 252950, ActionID 5] : UninstallApps changed task to DeleteContent with ""
+wine: Unhandled page fault on execute access to 00007F1923CB2E4C at address 00007F1923CB2E4C (thread 0084), starting debugger...
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+GameAction [AppID 413150, ActionID 5] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 413150, ActionID 5] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 413150, ActionID 5] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 413150, ActionID 5] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 413150, ActionID 5] : UninstallApps changed task to DeleteContent with ""
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+TagLib: Could not open file /home/matra/Music/Heavysaurios/2012 - HeavySaurios/01. Ejercito De Dinosaurios.mp3
+TagLib: FileRef::audioProperties() - Called without a valid file.
+TagLib: FileRef::tag() - Called without a valid file.
+Installing breakpad exception handler for appid(steam)/version(1603992987)
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:02.957: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:02.957: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:02.958: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:02.958: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:02.959: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:02.959: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:02.984: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:02.984: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:02.984: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:02.984: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:02.984: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:02.984: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.031: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.032: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.032: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.032: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.032: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.032: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.079: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.079: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.079: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.079: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.079: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.079: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.101: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.102: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.102: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.102: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.102: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.102: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.632: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.632: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.632: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.632: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.633: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.633: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.652: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.652: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.652: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.652: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.652: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14039): Gtk-CRITICAL **: 23:38:03.652: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+ExecuteSteamURL: "steam://open/friends"
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:54.954: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:54.954: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:54.955: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:54.955: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:54.956: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:54.956: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:54.965: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:54.965: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:54.965: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:54.965: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:54.965: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:54.965: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.014: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.014: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.014: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.014: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.014: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.014: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.066: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.066: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.066: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.066: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.067: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.067: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.219: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.219: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.219: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.219: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.219: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.219: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.232: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.233: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.233: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.233: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.233: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.233: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.244: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.244: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.244: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.244: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.244: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.244: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.263: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.263: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.263: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.263: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.263: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.263: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.344: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.344: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.344: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.344: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.344: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.345: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.444: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.444: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.444: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.444: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.444: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:38:55.444: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:39:01.657: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:39:01.658: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:39:01.658: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:39:01.658: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:39:01.658: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14066): Gtk-CRITICAL **: 23:39:01.658: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.644: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.645: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.645: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.645: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.646: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.646: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.695: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.695: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.695: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.695: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.695: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.695: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.746: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.746: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.747: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.747: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.747: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:13.747: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.224: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.225: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.225: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.225: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.225: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.225: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.253: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.253: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.253: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.253: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.253: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.253: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.323: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.323: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.323: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.323: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.323: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(engrampa:14078): Gtk-CRITICAL **: 23:39:14.323: _gtk_css_image_get_surface: assertion 'surface_width > 0' failed
+(electron) 'getName function' is deprecated and will be removed. Please use 'name property' instead.
+(electron) 'setBadgeCount function' is deprecated and will be removed. Please use 'badgeCount property' instead.
+(electron) 'setZoomLevel function' is deprecated and will be removed. Please use 'zoomLevel property' instead.
+23:50:53 ERROR: At beginning of history.
+libpng warning: iCCP: known incorrect sRGB profile
+** Message: 00:10:27.513: updates_checker.vala:65: check updates
+** Message: 00:10:28.756: updates_checker.vala:95: 0 updates found
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:15.555: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:16.574: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:17.586: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:18.751: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:19.710: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:20.708: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:21.645: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:23.204: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:24.891: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:26.405: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:27.741: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:29.330: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:30.802: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:32.540: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:34.210: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:35.798: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:37.659: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:39.506: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:41.568: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:46.331: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:51.655: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:54.434: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:18:57.450: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:00.067: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:03.072: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:05.133: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:07.039: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:08.963: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:10.527: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:12.348: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:14.866: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:17.428: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:19.900: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:22.346: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:25.637: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:27.834: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:29.390: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:30.678: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:32.319: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:33.891: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:36.628: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:38.230: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:38.904: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:40.703: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:42.221: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:43.242: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:44.243: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:45.263: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:46.424: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:47.706: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:49.238: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:50.514: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:52.766: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:53.821: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:55.092: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:55.831: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:56.469: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:58.711: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:19:59.940: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:20:00.903: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:20:01.642: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:20:02.408: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:20:03.038: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(pcmanfm:5365): Gtk-WARNING **: 00:20:03.684: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(xfce4-terminal:16488): Gtk-WARNING **: 00:31:37.757: TerminalWidget 0x5614b58c6a30 reported min size 18 and natural size 10 in get_preferred_width(); natural size must be >= min size
+
+(xfce4-terminal:16488): VTE-WARNING **: 00:31:38.395: (../vte/src/vtepty.cc:813):void vte_pty_spawn_with_fds_async(VtePty*, const char*, const char* const*, const char* const*, const int*, int, const int*, int, GSpawnFlags, GSpawnChildSetupFunc, gpointer, GDestroyNotify, int, GCancellable*, GAsyncReadyCallback, gpointer): runtime check failed: ((spawn_flags & forbidden_spawn_flags()) == 0)
+
+(xfce4-terminal:16533): Gtk-WARNING **: 00:32:28.159: TerminalWidget 0x55e91c5e5a30 reported min size 18 and natural size 10 in get_preferred_width(); natural size must be >= min size
+
+(xfce4-terminal:16533): VTE-WARNING **: 00:32:28.201: (../vte/src/vtepty.cc:813):void vte_pty_spawn_with_fds_async(VtePty*, const char*, const char* const*, const char* const*, const int*, int, const int*, int, GSpawnFlags, GSpawnChildSetupFunc, gpointer, GDestroyNotify, int, GCancellable*, GAsyncReadyCallback, gpointer): runtime check failed: ((spawn_flags & forbidden_spawn_flags()) == 0)
+
+(xfce4-terminal:16546): Gtk-WARNING **: 00:32:38.281: TerminalWidget 0x562552b94a30 reported min size 18 and natural size 10 in get_preferred_width(); natural size must be >= min size
+
+(xfce4-terminal:16546): VTE-WARNING **: 00:32:38.320: (../vte/src/vtepty.cc:813):void vte_pty_spawn_with_fds_async(VtePty*, const char*, const char* const*, const char* const*, const int*, int, const int*, int, GSpawnFlags, GSpawnChildSetupFunc, gpointer, GDestroyNotify, int, GCancellable*, GAsyncReadyCallback, gpointer): runtime check failed: ((spawn_flags & forbidden_spawn_flags()) == 0)
+
+(mousepad:17685): Gtk-CRITICAL **: 00:53:26.080: gtk_recent_manager_lookup_item: assertion 'GTK_IS_RECENT_MANAGER (manager)' failed
+** Message: 01:10:29.204: updates_checker.vala:65: check updates
+** Message: 01:10:30.074: updates_checker.vala:95: 0 updates found
