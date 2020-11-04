@@ -1,0 +1,20 @@
+#!/bin/sh
+#A case script to show all my important configs
+#in dmenu and maybe open them in nvim and stuff
+term='alacritty --command '
+menu='dmenu -i -p Configs'
+CONFS="alacritty\nqutebrowser\ntwmn\ngzdoom\ndwm\n"
+
+choice=$(echo -e $CONFS | $menu)
+
+case "$choice" in
+        alacritty) chosen="nvim /home/matra/.config/alacritty/alacritty.yml";; 
+        qutebrowser) chosen="nvim /home/matra/.config/qutebrowser/config.py";;
+        twmn) chosen="nvim /home/matra/.config/twmn/twmn.conf";;
+        gzdoom) chosen="nvim /home/matra/.config/gzdoom/gzdoom.ini";;
+        dwm) chosen="nvim -p /home/matra/.local/projects/dwm/config.def.h /home/matra/.local/projects/dwm/dwm.c";;
+###########
+#        *) return 1;; I need a way to avoid the error code of pressing ESC and not passing an argument to term
+#######        
+esac
+$term$chosen &

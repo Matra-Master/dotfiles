@@ -1,0 +1,15 @@
+#!/bin/bash
+#This script should toggle the touchpad on and off
+#It will do this by looking at the synclient TouchpadOff flag
+#The next line gets just the flag number
+# synclient | grep TouchpadOff | sed -e s/[' ',a-z,A-Z,=]//g
+
+tpoff=$( synclient | grep TouchpadOff | sed -e s/[' ',a-z,A-Z,=]//g )
+
+if [ $tpoff = 0 ]; then
+	synclient TouchpadOff=1 TapButton1=0 TapButton2=0 TapButton3=0
+
+else
+	synclient TouchpadOff=0 TapButton1=1 TapButton2=2 TapButton3=3
+
+fi

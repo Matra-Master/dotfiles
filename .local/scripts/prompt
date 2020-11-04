@@ -1,0 +1,8 @@
+#!/bin/sh
+#simple prompt for dmenu
+#Write a question on $1 to execute the comand in $2
+
+[ "$(printf "No\\nYes" | dmenu -i -p "$1" -nb darkred -sb red -sf white -nf gray )" = "Yes" ] && $2
+
+
+

@@ -1,0 +1,20 @@
+#!/bin/sh
+#Multi monitor config for mons in daemon mode
+
+#default = " -e right" #Default parameter for mons with two monitors
+
+case ${MONS_NUMBER} in
+        1) 
+          mons -o
+          #nitrogen --restore &
+          nitrogen --set-auto --random ~/Pictures/Wallpapers/Rotation/ &
+          ;;
+        2)
+          #Open dmenu with a parameter list for mons to use
+          mons - e right &
+          sleep 2
+          nitrogen --head=0 --set-auto ~/Pictures/Wallpapers/kojimaproductions1.png &
+          nitrogen --head=1 --set-auto ~/Pictures/Wallpapers/kojimaproductions2.png &
+          ;;
+esac
+

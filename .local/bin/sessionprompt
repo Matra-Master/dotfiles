@@ -1,0 +1,13 @@
+#!/bin/sh
+#Simple script for log out shutdown restart stuff on dmenu
+#
+#####
+DMENU='dmenu -i -p Choose'
+choice=$(echo -e "shutdown\nlock\nreboot" | $DMENU)
+
+case "$choice" in
+	shutdown) shutdown now & ;;
+        lock) dm-tool lock & ;; 
+	reboot) shutdown -r now & ;;
+esac
+
